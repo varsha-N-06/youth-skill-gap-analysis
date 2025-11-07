@@ -15,7 +15,7 @@ The dataset contains:
 - **Education Stream:** Field of study  
 - **Gender:** Male/Female distribution  
 
-🗂️ *File:* [Youth_Skill_Gap_Data.zip](Youth_Skill_Gap_Data.zip) *(Download and extract the dataset before use)*
+🗂️ *File:* [Youth_Skill_Gap_Data.xlsx](Youth_Skill_Gap_Data.xlsx) *(Download and extract the dataset before use)*
 
 ---
 
